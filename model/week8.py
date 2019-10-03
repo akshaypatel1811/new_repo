@@ -59,7 +59,6 @@ for j in range(1,n):
             
 
         
-z=0
 
 def final(n):
       o={}
